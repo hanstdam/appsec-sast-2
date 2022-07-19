@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<user id="johndoe">
+		<role>assistant</role>
+		<mfa>enabled</mfa>
+		<manager>janedoe</manager>
+	</user>
+	<user id="janedoe">
+		<role>manager</role>
+		<mfa>enabled</mfa>
+		<manager/>
+	</user>
+</settings>
